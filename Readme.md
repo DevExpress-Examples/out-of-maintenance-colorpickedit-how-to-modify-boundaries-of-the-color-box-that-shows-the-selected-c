@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomEdit.cs](./CS/WindowsFormsApplication475/CustomEdit.cs) (VB: [CustomEdit.vb](./VB/WindowsFormsApplication475/CustomEdit.vb))
+* **[Form1.cs](./CS/WindowsFormsApplication475/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication475/Form1.vb))**
+* [MyColorEditViewInfo.cs](./CS/WindowsFormsApplication475/MyColorEditViewInfo.cs) (VB: [MyColorEditViewInfo.vb](./VB/WindowsFormsApplication475/MyColorEditViewInfo.vb))
+* [RepositoryItemCustomEdit.cs](./CS/WindowsFormsApplication475/RepositoryItemCustomEdit.cs) (VB: [RepositoryItemCustomEdit.vb](./VB/WindowsFormsApplication475/RepositoryItemCustomEdit.vb))
+<!-- default file list end -->
 # ColorPickEdit - How to modify boundaries of the color box that shows the selected color
 
 
